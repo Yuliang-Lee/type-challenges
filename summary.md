@@ -5,3 +5,4 @@
 - 00011 看答案, 不熟悉 PropertyKey 这个内置属性
 - 00014 看答案, 没实现如果是空数据返回 never, 不了解 infer 的用法, 对 extends 的使用需要加深
 - 00018 看答案, 不理解类型加 ['xxx'] 这种写法
+- 00043 看答案, 不理解 Distributive conditional types 这个概念
