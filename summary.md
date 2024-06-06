@@ -7,3 +7,5 @@
 - 00018 看答案, 不理解类型加 ['xxx'] 这种写法
 - 00043 看答案, 不理解 Distributive conditional types 这个概念
 - 00189 done, 但是看答案又更优的写法 PromiseLike 类型
+- 00268 done
+- 00533 done
