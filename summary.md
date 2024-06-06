@@ -9,3 +9,4 @@
 - 00189 done, 但是看答案又更优的写法 PromiseLike 类型
 - 00268 done
 - 00533 done
+- 00898 看答案, 转成 map<value, true> 这个方法没想到
